@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# The Real Killer is Time
 
-## Description
+## Play as a detective who has trouble getting his work done. 
 
 Description of the game goes here.
 
